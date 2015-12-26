@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1450965176 source:c:\src\opengl\lesson09\lesson09.rc
+	<windows.h>
+	<winver.h>
+	"resource.h"
+
+1450965083 c:\src\opengl\lesson09\resource.h
+
